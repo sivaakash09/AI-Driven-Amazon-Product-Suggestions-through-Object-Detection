@@ -1,4 +1,4 @@
-# Poject Details
+# Project Details
 ## Topic: AI-Driven-Amazon-Product-Suggestions-through-Object-Detection
 
  ## Team Members:
