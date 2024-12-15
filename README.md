@@ -3,11 +3,11 @@
 
  ## Team Members:
 
- #### Siva Akash Ramini - 121301796
- #### LakshmiSaiVenkataSivaNagamaniCharan Kankanala - 120983184
- #### Roshan Syed - 121293565
- #### Rasagna Tirumani - 120984075
- #### Ankan Mandal - 121332455
+ ## Siva Akash Ramini - 121301796
+ ## LakshmiSaiVenkataSivaNagamaniCharan Kankanala - 120983184
+ ## Roshan Syed - 121293565
+ ## Rasagna Tirumani - 120984075
+ ## Ankan Mandal - 121332455
 
 ## Project Overview
 
