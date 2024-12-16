@@ -52,9 +52,9 @@ D: ML Algorithm Design/Development
 •	Roshan Syed/ Siva Akash Ramini — Designed and implemented YOLO-based object detection. Pre-processed image inputs for YOLO inference, optimized non-max suppression parameters, and created mechanisms for matching detected objects to product entries. Integrated pre-trained YOLO weights and customized detection thresholds for improved performance.
 E: ML Algorithm Training and Test Data Analysis
 •	Roshan Syed/ Ankan Mandal — Tuned YOLO hyperparameters for accuracy, precision, and recall. Analyzed training loss curves and evaluated model performance using intersection over union (IoU) metrics. Tested object mapping efficacy with a subset of the dataset.
-•	Rasagna Tirumani / Lakshmi Sai Venkata Charan Kankanala — Performed comprehensive evaluation of prediction outputs, verifying accuracy in matching detected objects to corresponding products. Documented test results and created confusion matrices.
+•	Rasagna Tirumani — Performed comprehensive evaluation of prediction outputs, verifying accuracy in matching detected objects to corresponding products. Documented test results and created confusion matrices.
 F: Visualization, Result Analysis, and Conclusion
-•	Siva Akash Ramini — Created and analyzed visualizations, including training accuracy curves, category-based bar charts, and correlation heatmaps. Summarized key findings and insights from EDA and model evaluation.
+•	Rasagna Tirumani — Created and analyzed visualizations, including training accuracy curves, category-based bar charts, and correlation heatmaps. Summarized key findings and insights from EDA and model evaluation.
 G: Final Tutorial Report Creation
 •	Lakshmi Sai Venkata Charan Kankanala — Compiled the final project report and created a step-by-step GitHub tutorial for implementing the project. Contributed to documenting model architecture, data pipeline, and results.
 
